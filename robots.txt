@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://toto-macau-edu.hudsonhouseinn.com//sitemap.xml
